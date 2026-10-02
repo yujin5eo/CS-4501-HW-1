@@ -6,7 +6,7 @@ assert all((root/x).is_file() for x in required)
 for page in ['index.html','baseline.html','review.html']:
  s=(root/page).read_text()
  for ref in re.findall(r'(?:src|href)="([^"#]+)',s):
-  if ':' not in ref and not ref.startswith('mailto:'): assert (root/ref).exists(),f'{page}: missing {ref}'
+  if ':' not in ref and not ref.startswith('mailto:'): assert (root/ref.split('?',1)[0]).exists(),f'{page}: missing {ref}'
  assert not re.search(r'(?:src|href)="/',s),f'{page}: root absolute path'
 anti=(root/'anti.js').read_text(); html=(root/'index.html').read_text()
 views=set(re.findall(r'data-view="([^"]+)',html))|set(re.findall(r"view==='([^']+)",anti))

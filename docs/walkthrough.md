@@ -2,7 +2,7 @@
 
 ## Anti-UX (`index.html`)
 
-1. Read the task brief, choose a run classification, and press **Start trial**. Timing starts at this action after the brief has been displayed.
+1. Read the task brief, choose **Practice / preview** while checking the site (or **Participant timing test** only for a real volunteer study), and press **Start trial**. Timing starts at this action after the brief has been displayed.
 2. Use the right-rail banner **Seasonal Allocations → Enter allocations**. (**Flowers** intentionally opens facts, whose text points to Seasonal Allocations.)
 3. On **Bumblebee flowers**, press **Mark allocation**. The remote header becomes `Ledger marks: 1`; there is deliberately no local confirmation.
 4. Set quantity to `12`.
@@ -17,7 +17,7 @@ If validation fails, all valid input remains stored. Read the persistent **Bee N
 
 ## Baseline (`baseline.html`)
 
-Start the trial; the form already presents the same task and data clearly. Choose Bumblebee flowers, 12, Ivory Garden Wrap; select Morning Flight from the 18-row comparison; use **Copy promotion**; keep the supplied delivery fields; review the running total; confirm. Validation and receipt requirements are shared with the anti-UX version.
+Choose Practice / preview while checking the site, then start the trial; the form already presents the same task and data clearly. Choose Bumblebee flowers, 12, Ivory Garden Wrap; select Morning Flight from the 18-row comparison; use **Copy promotion**; keep the supplied delivery fields; review the running total; confirm. Validation and receipt requirements are shared with the anti-UX version.
 
 ## Arithmetic
 

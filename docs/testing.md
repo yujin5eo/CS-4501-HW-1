@@ -10,7 +10,7 @@ Automated browser speed does not establish human slowdown. The five-times requir
 
 1. Recruit friends, family, or out-of-class peers without collecting names or other personal data. Use a fresh browser profile/storage reset for each clean trial.
 2. Use the same displayed task, timing boundaries, device, viewport, input method, and assistance policy. Timing starts when the task brief first appears after the participant starts a trial and stops only at the correct receipt. The apps implement these boundaries consistently.
-3. Classify each run as **Human study**. Record device conditions, prior exposure, version order, and assistance separately in the table below.
+3. Choose **Participant timing test** for each real volunteer run; use **Practice / preview** for setup and development. This keeps practice data separate from study evidence. Record device conditions, prior exposure, version order, and assistance separately in the table below.
 4. Prefer fresh participants. If each participant uses both versions, counterbalance version order. Discuss learning effects because wrap, promotion, and service knowledge may transfer to the second run.
 5. Export JSON or CSV from `review.html`. Records contain anonymous random run ID, mode, elapsed seconds, success/abandonment, error attempts, and classification; they remain local.
 6. Report failures and abandonments separately. Never transform them into completion times.

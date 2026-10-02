@@ -3,7 +3,7 @@
 ## Anti-UX (`index.html`)
 
 1. Read the task brief and press **Start task**. Normal links record a practice run. Participant-test links are available only on `review.html`. Timing starts when Start task is pressed after the brief has been displayed.
-2. Use the right-rail banner **Seasonal Allocations → Enter allocations**. (**Flowers** intentionally opens facts, whose text points to Seasonal Allocations.)
+2. Use the right-rail banner **Seasonal Allocations → Enter allocations**. (**Flowers** intentionally opens facts, whose text only names Seasonal Allocations without giving its location.)
 3. On **Bumblebee flowers**, press **Choose flower**. The remote header becomes `Cart items: 1`; there is deliberately no local confirmation.
 4. Set quantity to `12`.
 5. Open **Old Hive Files → Grower Cabinet → Grower Notes** (hover, focus, or tap/click works). The mapping is `WG17 — Ivory Garden Wrap`. Return through **Harvest Talk** or the Seasonal Allocations banner and choose `WG17`.

@@ -3,10 +3,10 @@
 ## Anti-UX (`index.html`)
 
 1. Read the task brief and press **Start task**. Normal links record a practice run. Participant-test links are available only on `review.html`. Timing starts when Start task is pressed after the brief has been displayed.
-2. Use the right-rail banner **Seasonal Allocations → Enter allocations**. (**Flowers** intentionally opens facts, whose text only names Seasonal Allocations without giving its location.)
+2. Use the right-rail banner **Seasonal Allocations → Enter allocations**. (**Flowers** intentionally opens facts and does not direct the user to the catalog.)
 3. On **Bumblebee flowers**, press **Choose flower**. The remote header becomes `Cart items: 1`; there is deliberately no local confirmation.
 4. Set quantity to `12`.
-5. Open **Old Hive Files → Grower Cabinet → Grower Notes** (hover, focus, or tap/click works). The mapping is `WG17 — Ivory Garden Wrap`. Return through **Harvest Talk** or the Seasonal Allocations banner and choose `WG17`.
+5. Open **Old Hive Files → Grower Cabinet → Grower Notes** (hover, focus, or tap/click works). The mapping is `WG17 — Ivory Garden Wrap`. Return with the browser Back button or use the Seasonal Allocations banner and choose `WG17`.
 6. Proceed to Flight. Open delivery cards until finding **Morning Flight**, window `09:00–11:00`, charge `$24.00`; select it. Other options fail the time constraint or (Queen's Reserve) the $295 budget.
 7. Open **Wedding Circular**, select/copy or note `741906283517`, then open **Ledger**.
 8. Enter promotion `741906283517`, date `2026-10-24`, recipient `Turnipseed Wedding`, venue `Meadow Hall`, email `planner@example.com`, and payment `Demo invoice`.
